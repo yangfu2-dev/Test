@@ -78,20 +78,35 @@ localhost:8082
 
 ## Usage
 
-### signup and login
+### 1. Signup and Login
+As shown in the following image, you can enter your full name, email address and password to sign up for a new account. This newly created account can later be used to sign in to the system.
+
 <img width="500" height="350" alt="Screenshot 2026-04-02 at 21 49 00" src="https://github.com/user-attachments/assets/b383f92f-73ce-4cc6-8f0d-156d8ed15bce" />
 
-### search for flights
+### 2. Search for Flights
+After you log in, the following page will show up. You can choose to search for either single trip or round trip. Then you need to enter the From City, To City, Travel Date and Return Date (in the case of round trip). Then you can click the search button to view the search results.
+
 <img width="500" height="350" alt="Screenshot 2026-04-02 at 21 54 33" src="https://github.com/user-attachments/assets/ba63ef31-698c-4e28-948e-f1690b8c8971" />
+
+As shown in the following image, in the round trip case, you can select one go trip and one return trip. In the single trip case, you can only select one go trip.
+
 <img width="500" height="350" alt="Screenshot 2026-04-02 at 21 54 59" src="https://github.com/user-attachments/assets/28276d0e-0802-4443-8160-142130a888d8" />
 
-### booking a flight
+### 3. Book a Flight
+
+In the following page, you can review the information of your selected flight. You need to enter Passenger Name, Age, Extra Baggage and choose whether you're a millitary personnel. You can click Back to Search button to select another flight or click Confirm Booking button to book this flight.
+
 <img width="500" height="350" alt="Screenshot 2026-04-02 at 21 55 24" src="https://github.com/user-attachments/assets/8c1e5ee8-f20f-44b8-85c1-f5e39e6d172e" />
 
-### canceling a flight
+### 4. Cancel a Flight
+
+In the following page, you can click Go Back button to go back to My Flights page without cancellation or click Confirm Cancellation to cancel the selected flight.
+
 <img width="500" height="350" alt="Screenshot 2026-04-02 at 21 55 48" src="https://github.com/user-attachments/assets/636d2b53-9c1d-453d-a016-9bc71086141e" />
 
-### reviewing myflight
+### 5. Reviewing my Flight
+
+In the My Flight page, you can review all the booked flights and cancelled flights. You can click the Cancel button of a certain flight to cancel that booked flight.
 
 <img width="500" height="350" alt="Screenshot 2026-04-02 at 21 55 58" src="https://github.com/user-attachments/assets/694dea8d-39af-40b3-bfa4-05176042a624" />
 
